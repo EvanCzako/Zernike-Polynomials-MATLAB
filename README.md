@@ -7,3 +7,5 @@ Function zernike is used to generate Zernike polynomials.
 Functions zernike_moments and zernike_recreation are used to perform a least-squares fit and recreation of an image using Zernike polynomials.
 
 Please read function descriptions for full instructions on their use.
+
+[![View Quick Zernike polynomial creation and decomposition on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/72440-quick-zernike-polynomial-creation-and-decomposition)
